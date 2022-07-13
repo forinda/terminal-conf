@@ -1,1 +1,1 @@
-# terminal-conf
+## My zsh setup
